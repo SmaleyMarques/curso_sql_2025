@@ -1,0 +1,3 @@
+-- ALT + F1
+
+SP_HELP ENTIDADES
